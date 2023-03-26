@@ -1,0 +1,71 @@
+{
+  "get": [
+    {
+      "id": 1,
+      "title": "pH",
+      "body": "5"
+    },
+    {
+      "id": 2,
+      "title": "Electro",
+      "body": "120"
+    },
+    {
+      "id": 3,
+      "title": "pH",
+      "body": "59"
+    },
+    {
+      "id": 4,
+      "title": "Electro",
+      "body": "712"
+    },
+    {
+      "id": 5,
+      "title": "pH",
+      "body": "10"
+    },
+    {
+      "id": 6,
+      "title": "Electro",
+      "body": "15"
+    },
+    {
+      "id": 7,
+      "title": "pH",
+      "body": "100"
+    },
+    {
+      "id": 8,
+      "title": "Electro",
+      "body": "15"
+    },
+    {
+      "id": 9,
+      "title": "Estado",
+      "body": "0"
+    },
+    {
+      "id": 10,
+      "title": "pH",
+      "body": "5"
+    },
+    {
+      "id": 11,
+      "title": "Electro",
+      "body": "546"
+    },
+    {
+      "id": 12,
+      "title": "Estado",
+      "body": "0"
+    }
+  ],
+  "posts": [
+    {
+      "title": "Estado",
+      "body": "0",
+      "id": 1
+    }
+  ]
+}
